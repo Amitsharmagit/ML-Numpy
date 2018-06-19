@@ -15,7 +15,7 @@ plt.show()
 # Computing Median
 np.median(incomes)
 
-# Adding Bill Gates into the mix. Darn income ineuality.
+# Adding Bill Gates into the mix. Darn income inequality.
 incomes = np.append(incomes, [1000000000])
 
 #Median Remains almost Same
